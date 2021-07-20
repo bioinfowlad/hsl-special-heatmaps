@@ -1,0 +1,8 @@
+#+OPTIONS: num:nil toc:nil
+#+REVEAL_TRANS: none
+#+REVEAL_THEME: black
+#+REVEAL_TITLE_SLIDE:<h2>%t</h2><h4>%a</h4>
+#+Title: R Special Topics: Making Heatmaps
+#+Author: Strauss Health Sciences Library
+#+Email: wladimir.labeikovsky@cuanschutz.edu
+* First Slide
